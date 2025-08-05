@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ٩(ˊᗜˋ )و
+٩(ˊᗜˋ )و
 Howdy! My name is Wenxin!
 I've basic knowledge of Web Design, Game Development, and currently experiementing how to make my Discord ChatBot better! 
 Feel free to discuss with me about...
@@ -25,7 +25,9 @@ Feel free to discuss with me about...
 Below is some project I make. Take a look!   
 **-My Discord Bot "DanHengDetector"**
 https://github.com/WenxinLi0317/DanHengDetector/blob/main/ArtOfWar/src/main/java/org/example/SunTzuSenseiBot.java
+
 **-My web narrative game called "Nothing Can go Wrong". You can play it on itch.io or just open the link below:**
 https://wenxin-li.itch.io/nothing-can-go-wrong
+
 **-A little website I made for my parent's business "Mini":**
 https://wenxinli0317.github.io/Mini/Mini.html
