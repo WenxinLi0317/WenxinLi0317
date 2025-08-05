@@ -15,14 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ٩(ˊᗜˋ )و
+
 Howdy! My name is Wenxin!
+
 I've basic knowledge of Web Design, Game Development, and currently experiementing how to make my Discord ChatBot better! 
+
 Feel free to discuss with me about...
+
   -Java
   -Python
   -Ink
   -HTML/CSS
+  
 Below is some project I make. Take a look!   
+
 **-My Discord Bot "DanHengDetector"**
 https://github.com/WenxinLi0317/DanHengDetector/blob/main/ArtOfWar/src/main/java/org/example/SunTzuSenseiBot.java
 
